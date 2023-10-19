@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519523208421",
+    "project_id": "passapp-86daa",
+    "storage_bucket": "passapp-86daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519523208421:android:1c70c1f068083fabbf180c",
+        "android_client_info": {
+          "package_name": "com.asd.passapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519523208421-0e35tkkvhntvu24n93iptnn7du1t6qvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPd-izHPSeBeNQXJqbo9bdmTZUfJyd2Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519523208421-0e35tkkvhntvu24n93iptnn7du1t6qvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

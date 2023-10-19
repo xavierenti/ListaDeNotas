@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.asd.passapp
 
 import org.junit.Test
 
